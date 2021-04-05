@@ -8,7 +8,7 @@ In this project, we release code for VoVNet-v2 backbone network (introduced by C
 
 thanks to https://github.com/youngwanLEE/vovnet-detectron2
 
-# MMDetection-1.2.0
+## Based on MMDetection-1.2.0
 
 
 ## Introduction
